@@ -40,7 +40,4 @@ Automated evaluation of five approaches to cross-lingual image captioning. Rejec
 
 ## Acknowledgements
 
-This project was partially supported by 
-
-1. National Natural Science Foundation of China (No. 61672523)
-2. Tencent
+This project was supported by the National Natural Science Foundation of China (No. 61672523).
