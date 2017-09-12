@@ -1,9 +1,13 @@
 # Cross-Lingual Image Captioning
-homepage of our cross-lingual image captioning project
+
+Image captioning has so far been explored mostly in English, as most available datasets are in this language. However, the application of image captioning should not be restricted by language. The study of cross-lingual image captioning is essential for a large population on the planet who cannot speak English. We are developing novel algorithms that enable learning an image captioning model for a target language other than English, with minimal labeling effort.
+
+<img src="conceptual.jpg" alt="cross-lingual image captioning" width="500">
+
 
 ## Code
 
-* [Fluency-guided image captioning](https://github.com/weiyuk/fluent-cap)
+* [Fluent-cap: Fluency-guided image captioning](https://github.com/weiyuk/fluent-cap)
 
 ## Datasets
 
