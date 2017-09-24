@@ -1,5 +1,5 @@
 # Pretrained Models
 
-| Model | Training set | Model Config | 
-|:--- |:--- |:--- 
-| [ruc_imcap_v0](ruc_imcap_v0.tar.gz) | flickr30k-cn train | 30k_neuraltalk | 
+| Model | Training set | Image feature | Model Config | 
+|:--- |:--- |:--- |:--- 
+| [ruc_imcap_v0](ruc_imcap_v0.tar.gz) | flickr30k-cn train | [resnet-152_imagenet1k](http://data.mxnet.io/models/imagenet/resnet/152-layers/) | 30k_neuraltalk | 
