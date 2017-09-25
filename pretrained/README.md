@@ -33,6 +33,7 @@ wget https://github.com/li-xirong/cross-lingual-cap/raw/master/pretrained/ruc_im
 tar xzf ruc_imcap.tar.gz 
 cd ruc_imcap
 ```
+
 #### Process a toyset
 
 ```bash
@@ -41,6 +42,8 @@ source ~/deepws/bin/activate
 ./do_ruc_imcap.sh toyset  #set gpu_id=-1 if your computer has no gpu card
 deactivate
 ```
+
+Generated captions will be saved to `$rootpath/toyset/autocap/toyset/flickr30kzhbbosontrain/sample/30k_neuraltalk/vocab_count_thr_5/pyresnet-152_imagenet1k,flatten0_output,osl2/bs5/top0/top_one_pred_sent.txt`
 
 ## Process a new image collection
 
