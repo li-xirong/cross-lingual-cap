@@ -22,7 +22,7 @@ Image captioning has so far been explored mostly in English, as most available d
 | Machine-translated <br/> Chinese sentences | 30,000 | 5,000 | -- | 148,915 | 5,000 | -- |
 | Human-translated <br/> Chinese sentences   | --     | --    | 5,000 |  -- | -- | 5,000|
 
-### Performance table
+#### Performance table
 
 Automated evaluation of five approaches to cross-lingual image captioning. Rejection sampling and weighted loss are comparable to *Without fluency* which learns from the full set of machine-translated sentences.
 
@@ -38,7 +38,7 @@ Automated evaluation of five approaches to cross-lingual image captioning. Rejec
 
 ## Pre-trained Models
 
-coming
+[ruc_imcap](pretrained): generate Chinese captions for novel images using one script
 
 ## Publications
 
