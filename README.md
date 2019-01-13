@@ -42,7 +42,8 @@ Automated evaluation of five approaches to cross-lingual image captioning. Rejec
 
 ## Publications
 
-1. Weiyu Lan, Xirong Li, Jianfeng Dong, [Fluency-Guided Cross-Lingual Image Captioning](https://arxiv.org/abs/1708.04390), ACM MM 2017
+1. Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu, COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval, IEEE Transactions on Multimedia, 2019 (in press)
+2. Weiyu Lan, Xirong Li, Jianfeng Dong, [Fluency-Guided Cross-Lingual Image Captioning](https://arxiv.org/abs/1708.04390), ACM MM 2017
 3. Qijie Wei, Xiaoxu Wang, Xirong Li, [Harvesting Deep Models for Cross-Lingual Image Annotation](https://doi.org/10.1145/3095713.3095751), CBMI 2017
 4. Xirong Li, Weiyu Lan, Jianfeng Dong, Hailong Liu, [Adding Chinese Captions to Images](https://doi.org/10.1145/2911996.2912049), ACM ICMR 2016
 
