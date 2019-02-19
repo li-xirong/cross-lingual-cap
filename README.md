@@ -15,13 +15,13 @@ Image captioning has so far been explored mostly in English, as most available d
 * [Flickr30k-cn (236MB)](http://lixirong.net/data/mm2017/flickr30k-cn.tar.gz)
 * [COCO-CN](https://github.com/li-xirong/coco-cn/)
 
-|  | Flickr8k-cn |||  Flickr30k-cn |||
-|:--- | -----:| -----:| -----:| -----:| -----:| -----:|
-|        | train| val | test | train | val | test |
-| Images | 6,000 | 1,000 | 1,000| 29,783 | 1,000 | 1,000|
-| Human-annotated <br/> Chinese sentences      | 30,000 | 5,000 | 5,000 |  -- | -- |  --  |
-| Machine-translated <br/> Chinese sentences | 30,000 | 5,000 | -- | 148,915 | 5,000 | -- |
-| Human-translated <br/> Chinese sentences   | --     | --    | 5,000 |  -- | -- | 5,000|
+|  | Flickr8k-cn |||  Flickr30k-cn ||| COCO-CN ||| 
+|:--- | -----:| -----:| -----:| -----:| -----:| -----:| -----:| -----:| -----:|
+|        | train| val | test | train | val | test | train | val | test |
+| Images | 6,000 | 1,000 | 1,000| 29,783 | 1,000 | 1,000| 18,341 | 1,000  | 1,000 |
+| Human-annotated <br/> Chinese sentences      | 30,000 | 5,000 | 5,000 |  -- | -- |  --  |  20,065 | 1,100 |  1,053  |
+| Machine-translated <br/> Chinese sentences | 30,000 | 5,000 | -- | 148,915 | 5,000 | -- | 91,758 | 5,004 | 5,001 | 
+| Human-translated <br/> Chinese sentences   | --     | --    | 5,000 |  -- | -- | 5,000| -- | -- | 5,000|
 
 #### Performance table
 
