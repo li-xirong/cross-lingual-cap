@@ -13,6 +13,7 @@ Image captioning has so far been explored mostly in English, as most available d
 
 * [Flickr8k-cn (59MB)](http://lixirong.net/data/mm2017/flickr8k-cn.tar.gz)
 * [Flickr30k-cn (236MB)](http://lixirong.net/data/mm2017/flickr30k-cn.tar.gz)
+* [COCO-CN](https://github.com/li-xirong/coco-cn/)
 
 |  | Flickr8k-cn |||  Flickr30k-cn |||
 |:--- | -----:| -----:| -----:| -----:| -----:| -----:|
