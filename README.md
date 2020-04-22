@@ -43,11 +43,12 @@ Automated evaluation of five approaches to cross-lingual image captioning. Rejec
 
 ## Publications
 
-1. Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu, [COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval](https://github.com/li-xirong/coco-cn), IEEE Transactions on Multimedia, 2019 (in press)
-2. 蓝玮毓, 王晓旭, 杨刚, 李锡荣, [标签增强的中文看图造句 (Improving Chinese Image Captioning by Tag Prediction)](http://cjc.ict.ac.cn/online/onlinepaper/lwy-201916191641.pdf), 计算机学报 (Chinese Journal of Computers), volume 42, number 1, pages 136-148, 2019
-3. Weiyu Lan, Xirong Li, Jianfeng Dong, [Fluency-Guided Cross-Lingual Image Captioning](https://doi.org/10.1145/3123266.3123366), ACM MM 2017
-4. Qijie Wei, Xiaoxu Wang, Xirong Li, [Harvesting Deep Models for Cross-Lingual Image Annotation](https://doi.org/10.1145/3095713.3095751), CBMI 2017
-5. Xirong Li, Weiyu Lan, Jianfeng Dong, Hailong Liu, [Adding Chinese Captions to Images](https://doi.org/10.1145/2911996.2912049), ACM ICMR 2016
+1. Zhengxiong Jia, Xirong Li, [iCap: Interactive Image Captioning with Predictive Text](http://lixirong.net/pub/icmr2020-icap.pdf), ACM ICMR 2020
+2. Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu, [COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval](https://github.com/li-xirong/coco-cn), IEEE Transactions on Multimedia, Volume 21, Number 9, pages 2347-2360, 2019
+3. 蓝玮毓, 王晓旭, 杨刚, 李锡荣, [标签增强的中文看图造句 (Improving Chinese Image Captioning by Tag Prediction)](http://cjc.ict.ac.cn/online/onlinepaper/lwy-201916191641.pdf), 计算机学报 (Chinese Journal of Computers), volume 42, number 1, pages 136-148, 2019 (2017中国多媒体大会优秀论文奖)
+4. Weiyu Lan, Xirong Li, Jianfeng Dong, [Fluency-Guided Cross-Lingual Image Captioning](https://doi.org/10.1145/3123266.3123366), ACM MM 2017
+5. Qijie Wei, Xiaoxu Wang, Xirong Li, [Harvesting Deep Models for Cross-Lingual Image Annotation](https://doi.org/10.1145/3095713.3095751), CBMI 2017
+6. Xirong Li, Weiyu Lan, Jianfeng Dong, Hailong Liu, [Adding Chinese Captions to Images](https://doi.org/10.1145/2911996.2912049), ACM ICMR 2016
 
 ## Acknowledgements
 
